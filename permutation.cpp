@@ -1,9 +1,3 @@
-/*
- * permutation.cpp
- *
- *  Created on: 2015Äê9ÔÂ18ÈÕ
- *      Author: ThinkPad
- */
 #include <iostream>
 #include <string>
 #include <cstdlib>
