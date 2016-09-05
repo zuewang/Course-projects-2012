@@ -1,1 +1,1 @@
-# Course-projects-2012
+#These are some projects from a computer science course.
